@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/NayanRamirez_Profile.jpg"
   name             : "Nayan G. Ramirez, Ph.D."
   pronouns         : "he/him//él"  
   bio              : "I am an Associate Professor of Criminology and Justice Studies at California State University, Northridge. My work focuses on how relationships and inequality shape young people’s lives in education and justice settings. I am committed to mentoring-focused teaching and research that centers inequality."
