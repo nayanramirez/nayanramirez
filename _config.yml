@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Nayan G. Ramirez"
 title_separator          : "-"
-name                     : &name "Nayan G. Ramirez"
+name                     : &name "Nayan G. Ramirez, Ph.D."
 description              : &description "Nayan G. Ramirez's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nayanramirez.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,14 +26,15 @@ author:
   avatar           : "profile.png"
   name             : "Nayan G. Ramirez"
   pronouns         : "he/him//él"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am an Associate Professor of Criminology and Justice Studies at California State University, Northridge. My work focuses on how relationships and inequality shape young people’s lives in education and justice settings. I am committed to mentoring-focused teaching and research that centers inequality."
+  interests        : "adolescent development, peer relationships and social networks, inequality in education and justice"
   location         : "Los Angeles, CA"
   employer         : "California State University, Northridge"
   uri              : "www.csun.edu"
   email            : "nayan.ramirez@csun.edu" 
 
   # Academic websites
-  academia         : "https://academics.csun.edu/faculty/nayan.ramirez"
+  csun             : "https://academics.csun.edu/faculty/nayan.ramirez"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=gXArgS8AAAAJ"
   inspire-hep      : # URL
@@ -51,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
