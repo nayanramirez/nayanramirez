@@ -28,10 +28,9 @@ author:
   pronouns         : "he/him//él"  
   bio              : >
   I am an Associate Professor of Criminology and Justice Studies at
-  <a href="https://www.csun.edu" target="_blank" rel="noopener">
-  California State University, Northridge</a>.
-  My work focuses on how relationships and inequality shape young people’s lives in education and justice settings.
-  I am committed to mentoring-focused teaching and research that centers inequality.
+    <a href="https://www.csun.edu" target="_blank" rel="noopener">
+    California State University, Northridge</a>.
+    My work focuses on how relationships and inequality shape young people’s lives in education and justice settings.
   interests        : "adolescent development, peer relationships and social networks, inequality in education and justice"
   location         : "Los Angeles, CA"
   employer         : "California State University, Northridge"
@@ -39,7 +38,7 @@ author:
   email            : "nayan.ramirez@csun.edu" 
 
   # Academic websites
-  csun             : "https://academics.csun.edu/faculty/nayan.ramirez"
+  csun             : # "https://academics.csun.edu/faculty/nayan.ramirez"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=gXArgS8AAAAJ"
   inspire-hep      : # URL
